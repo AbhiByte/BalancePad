@@ -1,3 +1,5 @@
-# Connect to openai's API from here
+# Since api isnt free :(, we will write our own gpt instead
+
+
 if __name__ == "__main__":
     pass
