@@ -24,3 +24,7 @@ yarn-error.log*
 
 openai-env
 .env
+
+package.json
+client/package-lock.json
+client/package.json
