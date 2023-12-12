@@ -26,3 +26,5 @@ openai-env
 .env
 
 package.json
+
+server/db.js
